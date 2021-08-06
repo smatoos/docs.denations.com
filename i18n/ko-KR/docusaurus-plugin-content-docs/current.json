@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.guideSidebar.category.Art Chain": {
+    "message": "Art Chain",
+    "description": "The label for category Art Chain in sidebar guideSidebar"
+  },
+  "sidebar.tutorialSidebar.category.How to own nations": {
+    "message": "How to own nations",
+    "description": "The label for category How to own nations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Metaverse(Play)": {
+    "message": "Metaverse(Play)",
+    "description": "The label for category Metaverse(Play) in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Finance": {
+    "message": "Finance",
+    "description": "The label for category Finance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Art Chain": {
+    "message": "Art Chain",
+    "description": "The label for category Art Chain in sidebar tutorialSidebar"
+  }
+}
