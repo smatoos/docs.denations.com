@@ -1,4 +1,6 @@
-# Website
+[![documentation](https://github.com/smatoos/docs.denations.com/actions/workflows/documentation.yml/badge.svg)](https://github.com/smatoos/docs.denations.com/actions/workflows/documentation.yml)
+
+# DeNations Docs
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
