@@ -16,10 +16,22 @@ sidebar_position: 1
 
 `Step 3.` Check the boxes and click 'Create an Account'
 
+:::danger Use Valid Email
+
 Must use a valid email address since the ID/PW retrieval email will be sent to the saved address in case you forget the ID/PW.
+
+:::
+
+:::danger Check Again
 
 Boxes in red with notification means that condition is not met, please check again and fill it out according to the criteria.
 
+:::
+
+:::caution Duplicate
+
 For the **existing users** who signed up by using their emails, input your **email address as your ID.**
+
+:::
 
 ![./assets/sign-up-log-in/image-1.png](./assets/sign-up-log-in/image-1.png)

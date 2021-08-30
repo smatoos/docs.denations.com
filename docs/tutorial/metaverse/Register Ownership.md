@@ -28,7 +28,7 @@ sidebar_position: 4
 
 - Detail information about tax compensation, DGDP, owners, and the president is included
 
-![./assets/register-ownership/image-1.png](./assets/register-ownership/image-1.png)
+    ![./assets/register-ownership/image-1.png](./assets/register-ownership/image-1.png)
 
 `Step 4.` Click the ‘Register My Ownerships’ or Scroll down
 

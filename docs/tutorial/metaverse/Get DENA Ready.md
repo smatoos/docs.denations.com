@@ -22,7 +22,7 @@ sidebar_position: 3
 
 - DENA address: 0x15F0EEDF9Ce24fc4b6826E590A8292CE5524a1DA
 
-![./assets/get-dena-ready/image-1.png](./assets/get-dena-ready/image-1.png)
+    ![./assets/get-dena-ready/image-1.png](./assets/get-dena-ready/image-1.png)
 
 `Step 6.` Input the amount you are willing to change to DENA
 
@@ -92,4 +92,8 @@ sidebar_position: 3
 
 `Step 14.` Confirm the amount and gas fee again and click 'Send'
 
-*When DENA is successfully transferred to your ChainBridge wallet, it will reflect on the [play.denations.com](http://play.denations.com/)*
+:::info Transfer Success
+
+When DENA is successfully transferred to your ChainBridge wallet, it will reflect on the [play.denations.com](http://play.denations.com/)
+ 
+:::

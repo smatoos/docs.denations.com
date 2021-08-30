@@ -16,7 +16,11 @@ If you already have ETH address, directly go to step 3 or 4
 
 `Step 2.` Connect to the OpenSea
 
+:::info
+
 It is recommended to read [the OpenSea guide](https://opensea.io/blog/guides/welcome-to-opensea/) at least once if you have no experience in digital wallet and NFT market.
+
+:::
 
 `Step 3.` Get Ethereum
 
