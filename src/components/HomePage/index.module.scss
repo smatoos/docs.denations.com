@@ -1,0 +1,140 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background: none;
+}
+
+.heroBG {
+  opacity: 0.6;
+  mask-image: linear-gradient(rgba(0, 0, 0, 1), transparent);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+.heroContents {
+  color: var(--ifm-font-color-base);
+}
+.heroTitle {
+  font-size: 2rem;
+  line-height: 2.25rem;
+  font-weight: 600;
+}
+.heroSubtitle {
+  font-size: 1.125rem;
+  line-height: 1.375rem;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.heroShortcuts {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+  margin: 2rem 0;
+}
+
+.shortcutTopic {
+  backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 12px;
+  border: 1px solid rgba(209, 213, 219, 0.3);
+  box-shadow: 0 10px 20px 0 rgb(0 0 0 / 15%);
+  padding: 1.5rem;
+  text-align: start;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  &:hover {
+    border: 1px solid rgba(209, 213, 219, 0.1);
+  }
+}
+
+html[data-theme="dark"] {
+  .shortcutTopic {
+    background-color: rgba(17, 25, 40, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    &:hover {
+      border: 1px solid rgba(255, 255, 255, 0.5);
+    }
+  }
+}
+.iconWrapper {
+  margin-bottom: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding: 0.75rem 0.5rem;
+}
+.textWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  margin-bottom: 0.125rem;
+  font-size: 1.125em;
+  font-weight: 600;
+}
+.description {
+  margin-bottom: 0.25rem;
+  font-size: 0.875em;
+  color: var(--ifm-color-emphasis-800);
+}
+
+.cardLink {
+  color: var(--ifm-font-color-base);
+  &:hover {
+    text-decoration: none;
+    color: var(--ifm-font-color-base);
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .heroShortcuts {
+    grid-template-columns: 1fr;
+  }
+  .shortcutTopic {
+    flex-direction: row;
+    align-items: center;
+  }
+  .iconWrapper {
+    margin: 0 0.5rem 0 0;
+  }
+  .heroBanner {
+    padding: 1rem;
+  }
+}
+
+@media (min-width: 451px) and (max-width: 750px) {
+  .heroShortcuts {
+    grid-template-columns: 1fr 1fr;
+  }
+  .heroBanner {
+    padding: 1.5rem;
+  }
+}
+
+@media (min-width: 751px) and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}

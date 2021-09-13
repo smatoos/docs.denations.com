@@ -2,34 +2,17 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# DeNations Tutorials
 
-Let's discover **Docusaurus in less than 5 minutes**.
+```mdx-code-block
+import styles from "@site/src/components/HomePage/index.module.scss";
+import TutorialTopic from "@site/src/components/HomePage/TutorialTopic";
+import { tutorialTopics } from "@site/src/constants";
 
-## Getting Started
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
+<div className={styles.heroShortcuts}>
+    {tutorialTopics.map(({ icon, ...tutorialTopic }) => (
+        <TutorialTopic icon={<icon.name {...icon} />} {...tutorialTopic} />
+    ))}
+</div>
 ```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.

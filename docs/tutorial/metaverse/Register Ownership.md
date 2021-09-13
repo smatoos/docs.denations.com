@@ -1,12 +1,13 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
+
 
 # Register Ownership (NFT)
 
 ## Purpose
 
-### Why encourage "Register Ownership"?
+Why encourage "Register Ownership"?
 
 - **Tax Farming**: similar DeFi concept to the liquidity mining or **yield farming** as you register your NFTs (among Nation, DN, and Art) and get Tax (in DENA) as a reward.
 [https://smatoos.medium.com/tax-farm-increase-policy-84b187cabc78](https://smatoos.medium.com/tax-farm-increase-policy-84b187cabc78)
@@ -17,7 +18,7 @@ sidebar_position: 4
 
 `Step 1.` Go to the main page 
 
-![./assets/register-ownership/image.png](./assets/register-ownership/image.png)
+![./assets/register-ownership/Untitled.png](./assets/register-ownership/image.png)
 
 - If you already have Ownership NFTs, click the 'Register' button
 - If not, select the nation you want to own, click the 'Buy' button which will direct you to the DeNations Collection page at OpenSea
@@ -28,7 +29,7 @@ sidebar_position: 4
 
 - Detail information about tax compensation, DGDP, owners, and the president is included
 
-    ![./assets/register-ownership/image-1.png](./assets/register-ownership/image-1.png)
+![./assets/register-ownership/image-1.png](./assets/register-ownership/image-1.png)
 
 `Step 4.` Click the ‘Register My Ownerships’ or Scroll down
 

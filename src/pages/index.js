@@ -1,42 +1,39 @@
 import React from "react";
-import clsx from "clsx";
 import Layout from "@theme/Layout";
-import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import styles from "./index.module.css";
-import HomepageFeatures from "../components/HomepageFeatures";
+import HomePageHeader from "@site/src/components/HomePage/Header";
+import Newsletter from "@site/src/components/HomePage/Newsletter";
+import "@site/src/css/base.scss";
 
-function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
-  return (
-    <header className={clsx("hero hero--primary", styles.heroBanner)}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/guide/intro"
-          >
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
-}
-
-export default function Home() {
+function HomePage() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`Welcome to the ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />"
     >
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
+      <HomePageHeader />
+      <main className="max-contents-width">
+        <section>
+          <h2>Documentation</h2>
+          <p>
+            Explore these docs to get started integrating the DeNations in your
+            dApp, smart contract or project.
+          </p>
+        </section>
+        <section>
+          <h2>Community</h2>
+          <p>
+            The DeNations codebase is comprised of an ecosystem of open source
+            components.
+          </p>
+        </section>
+        <section>
+          <Newsletter />
+        </section>
       </main>
     </Layout>
   );
 }
+
+export default HomePage;

@@ -19,6 +19,7 @@ module.exports = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
+  onBrokenLinks: "ignore",
   organizationName: "smatoos", // Usually your GitHub org/user name.
   projectName: "docs.denations.com", // Usually your repo name.
   i18n: {
@@ -59,24 +60,24 @@ module.exports = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: "DENATIONS DOCS",
       hideOnScroll: true,
+      logo: {
+        alt: "DENATIONS Logo",
+        src: "img/logo-light.svg",
+        srcDark: "img/logo.svg",
+      },
 
-      // logo: {
-      //   alt: "My Site Logo",
-      //   src: "img/logo.svg",
-      // },
       items: [
         {
           type: "doc",
-          docId: "guide/intro",
+          docId: "guide/welcome/introduction",
           label: "Documentation",
           position: "left",
         },
         {
           type: "doc",
           docId: "tutorial/intro",
-          label: "Tutorial",
+          label: "Tutorials",
           position: "left",
         },
         {
@@ -101,10 +102,10 @@ module.exports = {
             },
           ],
         },
-        {
-          type: "localeDropdown",
-          position: "right",
-        },
+        // {
+        //   type: "localeDropdown",
+        //   position: "right",
+        // },
         {
           label: "Community",
           position: "right",
@@ -151,7 +152,7 @@ module.exports = {
           items: [
             {
               label: "Documentation",
-              to: "/docs/guide/intro",
+              to: "/docs/guide/welcome/introduction",
             },
             {
               label: "Tutorial",
@@ -231,7 +232,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} SMATOOS, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SMATOOS, Inc.`,
     },
     metadatas: [
       { name: "description", content: description },
@@ -249,7 +250,7 @@ module.exports = {
       darkTheme: darkCodeTheme,
     },
   },
-
+  plugins: ["docusaurus-plugin-sass", "@docusaurus/plugin-ideal-image"],
   presets: [
     [
       "@docusaurus/preset-classic",
@@ -260,9 +261,7 @@ module.exports = {
           editUrl:
             "https://github.com/smatoos/docs.denations.com/edit/master/website/",
         },
-        theme: {
-          customCss: require.resolve("./src/css/custom.css"),
-        },
+        theme: { customCss: [require.resolve("./src/css/custom.scss")] },
       },
     ],
   ],

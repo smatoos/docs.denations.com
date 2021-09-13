@@ -1,23 +1,22 @@
 ---
-sidebar_position: 5
+sidebar_position: 7
 ---
 
 # Claim Tax
 
+## Purpose
+
 ## How to
 
-`Step 1.` Click 'Tax & Ownership'
+`Step 1.` After log-in and under the 'Tax & Ownership' section, check your accumulated DENA.
 
-`Step 2.` Under the 'Tax Received' section, click the ‘Claim’ button when you want to withdraw the accumulated tax in DENA.
+`Step 2.` Click 'Claim'.
 
-![claim-tax/Untitled%201.png](./assets/claim-tax/image-2.png)
+![Untitled](./assets/claim-tax/image.png)
 
-`Step 3.` Click 'Approve' after checking the unclaimed DENA amount
+`Step 3.` Click 'Approve' after checking the unclaimed amount of DENA.
 
-:::tip 
+![Untitled](./assets/claim-tax/image-1.png)
 
-The minimum amount of DENA = 1 to proceed ‘Claim’.
-
-:::
-
-![claim-tax/Untitled.png](./assets/claim-tax/image-1.png)
+INFORMATION
+Gas fee or transaction fee are NOT necessary.
