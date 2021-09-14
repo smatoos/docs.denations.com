@@ -1,8 +1,11 @@
 ---
 sidebar_position: 1
+slug: /tutorial
 ---
 
 # DeNations Tutorials
+
+Get started with tutorials about the various topics in each of these sections.
 
 ```mdx-code-block
 import styles from "@site/src/components/HomePage/index.module.scss";

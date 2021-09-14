@@ -7,9 +7,13 @@ sidebar_position: 4
 
 ## Finance platform
 
-[Decentralized Nations | DENA APP](https://finance.denations.com/#/nft)
-
 ![Untitled](./assets/nft-minting/Untitled.png)
+
+```mdx-code-block
+import {ExternalLinkCard} from '@site/src/components/Link/Card'
+
+<ExternalLinkCard title="Decentralized Nations | DENA APP" to="http://finance.denations.com/#/nft" style={{margin: '1rem 0'}}/>
+```
 
 ## Why introducing NFT Minting with DENA
 
@@ -35,7 +39,7 @@ With earned 100 DNFT, you may exchange approximately 100 DGDP worth of Nations O
 
 ### 100 DNFT per 1 DeNation Ownership
 
-50 [DeNations Ownership](https://www.notion.so/96eaf67f8e1b8bc494d3863863c1f8ed) NFTs will be allocated for the start, priced at 100 DNFT per 1 [DeNations Ownership](https://www.notion.so/96eaf67f8e1b8bc494d3863863c1f8ed). We may add more exotic Nation Ownerships buyable /exclusively buyable with DNFT.
+50 [DeNations Ownership](https://opensea.io/collection/decentralized-nations?collectionSlug=decentralized-nations) NFTs will be allocated for the start, priced at 100 DNFT per 1 [DeNations Ownership](https://opensea.io/collection/decentralized-nations?collectionSlug=decentralized-nations). We may add more exotic Nation Ownerships buyable /exclusively buyable with DNFT.
 
 ## How to mint NFT
 

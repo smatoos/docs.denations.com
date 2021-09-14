@@ -18,5 +18,8 @@ sidebar_position: 7
 
 ![Untitled](./assets/claim-tax/image-1.png)
 
-INFORMATION
+:::info INFORMATION
+
 Gas fee or transaction fee are NOT necessary.
+
+:::

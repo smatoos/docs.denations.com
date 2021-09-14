@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ### Tax Farming
 
-- Register your Nation Ownerships (NFTs) and enjoy tax (yield) farming.
+Register your Nation Ownerships (NFTs) and enjoy tax (yield) farming.
 
 :::tip
 
@@ -64,13 +64,17 @@ Early buyers will enjoy special Founder Tax.
 
 ### President Compensation
 
-- A President receives 20% of national tax and determines the national policy and executes the national budget.
+A President receives 20% of national tax and determines the national policy and executes the national budget.
 
 ## Art NFT Reward
 
 ### Art Farming
 
-[Art Farming(Farm with NFT)](/docs/guide/play-to-earn/Art%20Farming) 
+```mdx-code-block
+import {InternalLinkCard} from '@site/src/components/Link/Card'
+
+<InternalLinkCard title="Art Farming(Farm with NFT)" to="/docs/guide/play-to-earn/Art%20Farming" style={{margin: '1rem 0'}}/>
+``` 
 
 ### **Block Reward**
 

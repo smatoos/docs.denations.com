@@ -21,3 +21,13 @@ Refer to [DNFT Token](/docs/guide/tokenomics/DNFT%20Token)
 `Step 5.` Farm DNFT by depositing DENA
 
 `Step 6.` Exchange DNFT to DeNations Ownership NFTs by submitting the below form
+
+
+```mdx-code-block
+import { Widget } from '@typeform/embed-react'
+
+<Widget id="VPHHZ5be" style={{ width: '100%', height: '640px' }} className="my-form" />
+```
+
+[https://denations.typeform.com/to/VPHHZ5be](https://denations.typeform.com/to/VPHHZ5be)
+

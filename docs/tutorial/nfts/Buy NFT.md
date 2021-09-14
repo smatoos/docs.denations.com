@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: /tutorial/nfts
 ---
 
 # Buy NFT
@@ -33,5 +34,6 @@ It is recommended to read [the OpenSea guide](https://opensea.io/blog/guides/wel
 - **Ownership** NFT [https://opensea.io/collection/decentralized-nations](https://opensea.io/collection/decentralized-nations)
     1. DN Ownership NFT
     2. Nation Ownership NFT
-- **Unique Edition Art** NFT [https://opensea.io/collection/denations-art-unique-edition](https://opensea.io/collection/denations-art-unique-edition)
-- **Open Edition Art** NFT [https://opensea.io/collection/denations-art-open-edition](https://opensea.io/collection/denations-art-open-edition)
+- **DeNations Art by Jeon Byeongsam** NFT [https://opensea.io/collection/denations-art-unique-edition](https://opensea.io/collection/denations-art-unique-edition)
+- **DeNations Art by Jacoby** NFT [https://opensea.io/collection/denations-art-by-jacoby](https://opensea.io/collection/denations-art-by-jacoby)
+- **DeNations Art Open Edition ** NFT [https://opensea.io/collection/denations-art-open-edition](https://opensea.io/collection/denations-art-open-edition)

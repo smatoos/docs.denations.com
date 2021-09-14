@@ -3,7 +3,10 @@ import Layout from "@theme/Layout";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import HomePageHeader from "@site/src/components/HomePage/Header";
 import Newsletter from "@site/src/components/HomePage/Newsletter";
-import "@site/src/css/base.scss";
+import { InternalLinkCard } from "../components/Link/Card";
+import { docs } from "../constants";
+import styles from "./index.module.scss";
+import clsx from "clsx";
 
 function HomePage() {
   const { siteConfig } = useDocusaurusContext();
@@ -13,24 +16,19 @@ function HomePage() {
       description="Description will go into a meta tag in <head />"
     >
       <HomePageHeader />
-      <main className="max-contents-width">
-        <section>
+      <main className={clsx("max-contents-width", styles.main)}>
+        <section className={styles.section}>
           <h2>Documentation</h2>
-          <p>
-            Explore these docs to get started integrating the DeNations in your
-            dApp, smart contract or project.
-          </p>
+          <div className={styles.linkListWrapper}>
+            {docs.map((doc) => (
+              <InternalLinkCard title={doc.name} to={doc.to} />
+            ))}
+          </div>
         </section>
-        <section>
-          <h2>Community</h2>
-          <p>
-            The DeNations codebase is comprised of an ecosystem of open source
-            components.
-          </p>
-        </section>
-        <section>
+
+        {/* <section className={styles.section}>
           <Newsletter />
-        </section>
+        </section> */}
       </main>
     </Layout>
   );

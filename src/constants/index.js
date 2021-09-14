@@ -8,8 +8,8 @@ import {
 export const tutorialTopics = [
   {
     name: "NFTs",
-    description: "General info for players",
-    to: "/docs/tutorial/how-to-own-nations",
+    description: "Buy & Trade core assets of DeNations",
+    to: "/docs/tutorial/nfts",
     icon: {
       size: 56,
       name: CardsIcon,
@@ -19,8 +19,8 @@ export const tutorialTopics = [
   },
   {
     name: "Metaverse(Play)",
-    description: "General info for players",
-    to: "/docs/tutorial/metaverse/Sign%20up%20&%20Log%20in",
+    description: "Run nations and earn taxes",
+    to: "/docs/tutorial/metaverse",
     icon: {
       size: 56,
       name: EarthIcon,
@@ -30,8 +30,8 @@ export const tutorialTopics = [
   },
   {
     name: "Finance",
-    description: "General info for players",
-    to: "/docs/tutorial/finance/Liquidity%20Farming",
+    description: "Trade and farm tokens and NFTs",
+    to: "/docs/tutorial/finance",
     icon: {
       size: 56,
       name: FinanceIcon,
@@ -40,14 +40,41 @@ export const tutorialTopics = [
     },
   },
   {
-    name: "Artchain",
-    description: "General info for players",
-    to: "/docs/tutorial/artchain/congratulations",
+    name: "Art Chain",
+    description: "NFT art blocks issued by talented artists",
+    to: "/docs/tutorial/artchain",
     icon: {
       size: 56,
       name: ArtIcon,
       color: "var(--ifm-color-line-icon)",
       pointColor: "var(--ifm-color-warning)",
     },
+  },
+];
+
+export const docs = [
+  {
+    name: "Play to Earn(MetaFi)",
+    to: "/docs/guide/play-to-earn",
+  },
+  {
+    name: "Ecosystem",
+    to: "/docs/guide/ecosystem",
+  },
+  {
+    name: "Tokenomics",
+    to: "/docs/guide/tokenomics",
+  },
+  {
+    name: "NFTs",
+    to: "/docs/guide/nfts",
+  },
+  {
+    name: "Governance",
+    to: "/docs/guide/governance",
+  },
+  {
+    name: "Roadmap",
+    to: "/docs/guide/roadmap",
   },
 ];

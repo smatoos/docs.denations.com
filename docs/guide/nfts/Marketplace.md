@@ -14,15 +14,19 @@ DeNations utilizes OpenSea to mint and list NFTs.
 - Sold-out nations' next rounds start on every Monday and Thursday.
 - It is scheduled to be released bi-weekly between UTC 3:00 AM and UTC 8:00 AM.
 
-### DeNations
+### DeNations Ownership NFT 
 
-[Nation Ownership NFT](https://opensea.io/collection/decentralized-nations)
+|             Collection             |                            Link                            |
+|:----------------------------------:|:----------------------------------------------------------:|
+| Nation Ownership NFT               | https://opensea.io/collection/decentralized-nations        |
 
 ### DeNations Art Chain
 
-- [DeNations Art by Jeon Byeongsam](https://opensea.io/collection/denations-art-unique-edition)
-- [DeNations Art by Jacoby](https://opensea.io/collection/denations-art-by-jacoby)
-- [DeNations Art Open Edition](https://opensea.io/collection/denations-art-open-edition)
+|             Collection             |                            Link                            |
+|:----------------------------------:|:----------------------------------------------------------:|
+| Art by Jeon Byeongsam              | https://opensea.io/collection/denations-art-unique-edition |
+| Art by Jacoby                      | https://opensea.io/collection/denations-art-by-jacoby      |
+| Art Open Edition                   | https://opensea.io/collection/denations-art-open-edition   |
 
 ## Own Marketplace
 

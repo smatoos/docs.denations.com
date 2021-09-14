@@ -24,7 +24,11 @@ sidebar_position: 5
 
 1. **Art Farming** 
 
-    [Art Farming(Farm with NFT)](/docs/guide/play-to-earn/Art%20Farming) 
+```mdx-code-block
+import {InternalLinkCard} from '@site/src/components/Link/Card'
+
+<InternalLinkCard title="Art Farming" to="/docs/guide/play-to-earn/Art%20Farming" style={{margin: '1rem 0'}}/>
+``` 
 
 2. **Art DGDP Boost**
 
@@ -47,19 +51,33 @@ sidebar_position: 5
     - Virtual museum where DeNations Art NFTs can be registered and exhibited; each nation has its own National Art Museum.
     - The Art NFTs displayed in the national museum is exposed to users and receive public love and attention from users.
 
-## Edition
+## Art Collections
 
-### Open Edition
+### Art Open Edition
 
 1. **[Magic Frame NFT](https://opensea.io/collection/denations-art-open-edition)**
    - This NFT shows information about the next DeNations Art drop.
    - This can hold large size DeNations Art and boost the DeNations Art’s Art Index by 5%.
    - Only one Magic Frame NFT can be attached to one Unique Edition of DeNations Art.
 
-### Unique Edition
+### Art by Jeon Byeongsam
 
-[DeNations Art by Jeon Byeongsam](https://opensea.io/collection/denations-art-unique-edition)
+```mdx-code-block
+import {ExternalLinkCard} from '@site/src/components/Link/Card'
 
-### Edition of 5
+<ExternalLinkCard title="DeNations Art by Jeon Byeongsam" to="https://opensea.io/collection/denations-art-unique-edition" style={{margin: '1rem 0'}}/>
+``` 
 
-[DeNations Art by Jacoby](https://opensea.io/collection/denations-art-by-jacoby)
+### Art by Jacoby
+
+```mdx-code-block
+<ExternalLinkCard title="DeNations Art by Jacoby" to="https://opensea.io/collection/denations-art-by-jacoby" style={{margin: '1rem 0'}}/>
+``` 
+
+### Collections
+
+|             Collection             |                            Link                            |
+|:----------------------------------:|:----------------------------------------------------------:|
+| Art by Jeon Byeongsam              | https://opensea.io/collection/denations-art-unique-edition |
+| Art by Jacoby                      | https://opensea.io/collection/denations-art-by-jacoby      |
+| Art Open Edition                   | https://opensea.io/collection/denations-art-open-edition   |

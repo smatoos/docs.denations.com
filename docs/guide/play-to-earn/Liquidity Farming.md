@@ -6,57 +6,36 @@ sidebar_position: 3
 
 ## Finance platform
 
-[Decentralized Nations | DENA APP](http://finance.denations.com/#/dena)
-
 ![Untitled](./assets/liquidity-farming/Untitled.png)
+
+```mdx-code-block
+import {ExternalLinkCard} from '@site/src/components/Link/Card'
+
+<ExternalLinkCard title="Decentralized Nations | DENA APP" to="http://finance.denations.com/#/dena" style={{margin: '1rem 0'}}/>
+```
 
 ## Description
 
 DeNations distributes a certain # of DENA to the liquidity provider of DENA and other major tokens such as ETH, DAI, and WBTC in proportional to their provided liquidity size. This is intended to increase the liquidity and value of the DENA token, which is a key driver of the DeNations ecosystem. 
 
 1. Add liquidity to qualified liquidity pools that reside in Uniswap.
-2. Receive LP (Liquidity Provider) token from Uniswap in exchange of adding liquidity.
+2. Receive LP (Liquidity Provider) token from Uniswap in exchange for adding liquidity.
 3. Stake LP token to Finance.denations.com
-4. Recieve DENA in proportional to the sized of staked LP Tok
+4. Receive DENA in proportional to the size of staked LP token.
 
-## Liquidity Pools
+## Liquidity Farms
 
-**Participating pools are...**
+**Participating farms are...**
 
 1. **DENA-ETH** Liquidity Farming Pool **[Add Liquidity](https://app.uniswap.org/#/add/0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da/ETH)** 
+    1. **Farming Rate:** 1,500 DENA per week
+    2. **Staked LP Token:** DENA-ETH Uniswap V2 LP token 
 2. **DENA-DAI** Liquidity Farming Pool **[Add Liquidity](https://app.uniswap.org/#/add/0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da/0x6b175474e89094c44da98b954eedeac495271d0f)**
+    1. **Farming Rate:** 1,500 DENA per week
+    2. **Staked LP Token:** DENA-DAI Uniswap V2 LP token 
 3. **DENA-WBTC** Liquidity Farming Pool [**Add Liquidity**](https://app.uniswap.org/#/add/0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599)
-
-**Details about ETH and DAI pools are as below...**
-
-- **Pool Size**
-
-    6,000 DENA will be allocated per pool (2 pools, Total 12,000 DENA)
-
-- **Mining Rate**
-
-    214.2857 DENA per pool per day0.034722 DENA per pool per block (14s block time)
-
-- **Mining Power**
-
-    1. DENA-ETH Liquidity Mining Pool: # of UNI-V2 LP Tokens
-
-    2. DENA-DAI Liquidity Mining Pool: # of BPT Tokens
-
-    *# of LP tokens received is proportional to the amount of liquidity you provide.*
-
-**Details about WBTC pools are as below...**
-
-- **Farm Size**
-
-    2,000 DENA will be allocated for DENA-WBTC liquidity farming
-
-- **Farming Rate**
-
-    500 DENA per week = 72.4285 DENA day
-
-    *The farming rate for individuals is proportional to the amount of LP Token they staked (deposited).*
-
+    1. **Farming Rate:** 500 DENA per week
+    2. **Staked LP Token:** DENA-DAI Uniswap V2 LP token
 
 :::caution APR/APY
 

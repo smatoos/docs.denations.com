@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Claim Physical Art
 
 [DeNations Art](https://art.denations.com/owners)

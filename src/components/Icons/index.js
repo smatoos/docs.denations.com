@@ -136,3 +136,57 @@ export function FinanceIcon(iconProps) {
     </svg>
   );
 }
+
+export function ExternalLinkIcon(iconProps) {
+  return (
+    <svg
+      width={iconProps.size}
+      height={iconProps.size}
+      viewBox="0 0 32 32"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M22.0952 20.5714V9.90476H11.4286"
+        stroke={iconProps.color}
+        stroke-width="1.52381"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+      <path
+        d="M22.0952 9.90476L9.90476 22.0952"
+        stroke={iconProps.color}
+        stroke-width="1.52381"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+    </svg>
+  );
+}
+
+export function InternalLinkIcon(iconProps) {
+  return (
+    <svg
+      width={iconProps.size}
+      height={iconProps.size}
+      viewBox="0 0 32 32"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M25.1429 9.90476L25.1429 12.9524C25.1429 14.1648 24.6612 15.3276 23.8039 16.1849C22.9466 17.0422 21.7838 17.5238 20.5714 17.5238L8.38095 17.5238"
+        stroke={iconProps.color}
+        stroke-width="1.52381"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+      <path
+        d="M12.9539 12.9524L8.38095 17.5238L12.9539 22.0952"
+        stroke={iconProps.color}
+        stroke-width="1.52381"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+    </svg>
+  );
+}

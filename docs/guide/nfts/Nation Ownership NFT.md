@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: /guide/nfts
 ---
 
 # Nation Ownership NFT
@@ -53,7 +54,7 @@ sidebar_position: 1
 
 ### Tax Farming
 
-- Register your Nation Ownerships (NFTs) and enjoy tax (yield) farming.
+Register your Nation Ownerships (NFTs) and enjoy tax (yield) farming.
 
 :::tip
 
@@ -108,7 +109,7 @@ Early buyers will enjoy special Founder Tax.
 
 ### President Compensation
 
-- A President receives 20% of national tax and determines the national policy and executes the national budget.
+A President receives 20% of national tax and determines the national policy and executes the national budget.
 
 :::tip
 

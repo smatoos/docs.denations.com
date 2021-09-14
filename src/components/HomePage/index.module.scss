@@ -50,21 +50,23 @@
   grid-column-gap: 10px;
   grid-row-gap: 10px;
   margin: 2rem 0;
+  max-width: var(--max-contents-width);
 }
 
 .shortcutTopic {
   backdrop-filter: blur(16px) saturate(180%);
   background-color: rgba(255, 255, 255, 0.3);
   border-radius: 12px;
-  border: 1px solid rgba(209, 213, 219, 0.3);
+  border: 1px solid rgba(100, 100, 100, 0.125);
   box-shadow: 0 10px 20px 0 rgb(0 0 0 / 15%);
   padding: 1.5rem;
   text-align: start;
   display: flex;
   flex-direction: column;
   align-items: center;
+  height: 100%;
   &:hover {
-    border: 1px solid rgba(209, 213, 219, 0.1);
+    border: 1px solid rgba(100, 100, 100, 0.5);
   }
 }
 
@@ -87,6 +89,7 @@ html[data-theme="dark"] {
 .textWrapper {
   display: flex;
   flex-direction: column;
+  width: 100%;
 }
 
 .title {
@@ -107,6 +110,36 @@ html[data-theme="dark"] {
     color: var(--ifm-font-color-base);
   }
 }
+.newsletter {
+  padding: 1.5rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+.newsletterForm {
+  display: grid;
+  grid-template-columns: 1fr 148px;
+  grid-gap: 0.5rem;
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+}
+.newsletterTitle {
+  margin-bottom: 0.25rem;
+  font-size: 1.375rem;
+  line-height: 1.875rem;
+  font-weight: 500;
+}
+.newsletterDescription {
+  font-size: 0.875rem;
+  line-height: 1.375rem;
+  color: var(--ifm-color-emphasis-600);
+}
 
 @media screen and (max-width: 450px) {
   .heroShortcuts {
@@ -121,6 +154,9 @@ html[data-theme="dark"] {
   }
   .heroBanner {
     padding: 1rem;
+  }
+  .newsletterForm {
+    grid-template-columns: 1fr;
   }
 }
 

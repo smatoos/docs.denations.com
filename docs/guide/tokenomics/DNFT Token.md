@@ -9,7 +9,12 @@ sidebar_position: 2
 
 ## Usage
 
-1. [Mint Ownership NFTs with DNFT](https://denations.typeform.com/to/VPHHZ5be)
+```mdx-code-block
+import { ExternalLinkCard } from '@site/src/components/Link/Card'
+
+<ExternalLinkCard title="Mint Ownership NFTs with DNFT" to="https://denations.typeform.com/to/VPHHZ5be" style={{margin: '1rem 0'}}/>
+```
+
 
 ## How to Earn
 
@@ -28,4 +33,4 @@ With earned 100 DNFT, you may exchange approximately 100 DGDP worth of Nations O
 
 ### 100 DNFT per 1 DeNation Ownership
 
-50 [DeNations Ownership](https://www.notion.so/96eaf67f8e1b8bc494d3863863c1f8ed) NFTs will be allocated for the start, priced at 100 DNFT per 1 [DeNations Ownership](https://www.notion.so/96eaf67f8e1b8bc494d3863863c1f8ed). We may add more exotic Nation Ownerships buyable /exclusively buyable with DNFT.
+50 [DeNations Ownership](https://opensea.io/assets/0xa9cfc59a96eaf67f8e1b8bc494d3863863c1f8ed/21?assetContractAddress=0xa9cfc59a96eaf67f8e1b8bc494d3863863c1f8ed&tokenId=21) NFTs will be allocated for the start, priced at 100 DNFT per 1 [DeNations Ownership](https://opensea.io/assets/0xa9cfc59a96eaf67f8e1b8bc494d3863863c1f8ed/21?assetContractAddress=0xa9cfc59a96eaf67f8e1b8bc494d3863863c1f8ed&tokenId=21). We may add more exotic Nation Ownerships buyable /exclusively buyable with DNFT.

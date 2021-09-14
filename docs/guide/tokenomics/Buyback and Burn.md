@@ -48,7 +48,7 @@ DENA Price (Before): 6.2847
 DENA Price (After): 6.63
 Price Increase Rate: 5.49%
 
-TxHash: [https://etherscan.io/tx/0x5ca505f63597c306404638f33ad53698f4345f4d6271857bd0e75e0163073a32]
+TxHash: 0x5ca505f63597c306404638f33ad53698f4345f4d6271857bd0e75e0163073a32
 ```
 
 ```bash
@@ -59,26 +59,32 @@ DENA Price (Before): 6.6758
 DENA Price (After): 7.06
 Price Increase Rate: 5.76%
 
-TxHash:[https://etherscan.io/tx/0x971bd63fb1678a31b6fd908c3b79da402558d59b43ed41c57d7c23d3052494f5](https://www.notion.so/2558d59b43ed41c57d7c23d3052494f5)
+TxHash: 0x971bd63fb1678a31b6fd908c3b79da402558d59b43ed41c57d7c23d3052494f5
 ```
 
 ```bash
 3rd ETH OUT: 5 ETH
 3rd DENA IN: 2,005.41 
 
-TxHash:[https://etherscan.io/tx/0x40ed55e36b43d1ee173441713893b2f8a106a1984ad0da9a0c2f8a85778c8b90](https://www.notion.so/a106a1984ad0da9a0c2f8a85778c8b90)
+TxHash: 0x40ed55e36b43d1ee173441713893b2f8a106a1984ad0da9a0c2f8a85778c8b90
 ```
 
 ### Burn
 
 - 1st Burn TxHash **(344 DENA):**
 
-    [https://etherscan.io/tx/0x0a7d16c3f4e8297a0ad625badd10a6d7a16aa33ba3b5ad028bdedbfdfa03c6f9](https://www.notion.so/a16aa33ba3b5ad028bdedbfdfa03c6f9)
+    [0x0a7d16c3f4e8297a0ad625badd10a6d7a16aa33ba3b5ad028bdedbfdfa03c6f9](https://etherscan.io/tx/0x0a7d16c3f4e8297a0ad625badd10a6d7a16aa33ba3b5ad028bdedbfdfa03c6f9)
 
 - 2nd Burn TxHash **(1,700 DENA):**
 
-    [https://etherscan.io/tx/0x0a7d16c3f4e8297a0ad625badd10a6d7a16aa33ba3b5ad028bdedbfdfa03c6f9](https://www.notion.so/a16aa33ba3b5ad028bdedbfdfa03c6f9)
+    [0x0a7d16c3f4e8297a0ad625badd10a6d7a16aa33ba3b5ad028bdedbfdfa03c6f9](https://etherscan.io/tx/0x0a7d16c3f4e8297a0ad625badd10a6d7a16aa33ba3b5ad028bdedbfdfa03c6f9)
 
-- 3rd Burn TxHash **(3,161 DENA = $15,046 USD Value)** [https://etherscan.io/tx/0x40ed55e36b43d1ee173441713893b2f8a106a1984ad0da9a0c2f8a85778c8b90](https://www.notion.so/a106a1984ad0da9a0c2f8a85778c8b90)
+- 3rd Burn TxHash **(3,161 DENA = $15,046 USD Value)** "
+  
+    [tx/0x40ed55e36b43d1ee173441713893b2f8a106a1984ad0da9a0c2f8a85778c8b90](https://www.notion.so/a106a1984ad0da9a0c2f8a85778c8b90)
 
-[https://smatoos.medium.com/dena-buyback-burn-up-to-50-of-total-supply-131eae0905de](https://smatoos.medium.com/dena-buyback-burn-up-to-50-of-total-supply-131eae0905de)
+```mdx-code-block
+import {ExternalLinkCard} from '@site/src/components/Link/Card'
+
+<ExternalLinkCard title="Check the recent post" to="https://smatoos.medium.com/dena-buyback-burn-up-to-50-of-total-supply-131eae0905de" style={{margin: '1rem 0'}}/>
+```

@@ -1,0 +1,20 @@
+.linkListWrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
+}
+
+.section {
+  margin-bottom: 3rem;
+  padding: 0 1rem;
+}
+.main {
+  padding-bottom: 2rem;
+}
+
+@media screen and (max-width: 450px) {
+  .linkListWrapper {
+    grid-template-columns: 1fr;
+    grid-gap: 0.5rem;
+  }
+}

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: /guide/play-to-earn
 ---
 
 # Tax Farming(Farm with NFT)
@@ -45,7 +46,7 @@ The status of the registered Nation Ownerships is measured when the next round s
 
 #### Register Nation Ownerships to Qualify
 
-You need to register your Nation Ownerships to qualify to receive Founder Tax . [Register Ownerships>](https://denations.typeform.com/to/oksODtaP)Users who already registered their Nation Ownerships, do not need to register twice.
+You need to register your Nation Ownerships to qualify to receive Founder Tax.
 
 #### Tax Reward Date
 
@@ -53,7 +54,7 @@ The reward will be paid within 28 days after the end of the round (when the last
 
 #### Exceptions
 
-DeNations Ownerships & Myanmar Ownerships are excluded. For Ownerships of a Nation that have sold greater than or equal to 100 on May 13th, 2021, the Founder Tax policy for the second round sales will be [announced shortly in a separate article](https://smatoos.medium.com/founder-tax-exception-case-for-2nd-round-59b26fc943f3). This applies to France, Japan, Italy, India, the Republic of Korea, Estonia, Malta, Switzerland, Singapore, Australia, Greece, China.
+DeNations Ownerships & Myanmar Ownerships are excluded. 
 
 #### Example
 

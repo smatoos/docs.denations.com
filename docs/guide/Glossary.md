@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 11
 ---
 
 
@@ -9,7 +9,11 @@ sidebar_position: 10
 
 ### DGDP
 
-[Calculation of DGDP](https://www.notion.so/Calculation-of-DGDP-b4316769b5874861b0191a6110763999) 
+```mdx-code-block
+import {ExternalLinkCard} from '@site/src/components/Link/Card'
+
+<ExternalLinkCard title="Calculation of DGDP" to="https://www.notion.so/Calculation-of-DGDP-b4316769b5874861b0191a6110763999" style={{margin: '1rem 0'}}/>
+``` 
 
 ### Register
 

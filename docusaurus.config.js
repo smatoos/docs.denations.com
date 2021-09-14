@@ -17,25 +17,25 @@ module.exports = {
   tagline: "",
   baseUrl: "/",
   onBrokenLinks: "throw",
+  // onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  onBrokenLinks: "ignore",
   organizationName: "smatoos", // Usually your GitHub org/user name.
   projectName: "docs.denations.com", // Usually your repo name.
-  i18n: {
-    defaultLocale: "en-US",
-    locales: ["en-US", "ko-KR"],
-    localeConfigs: {
-      "en-US": {
-        label: "English",
-        direction: "ltr",
-      },
-      "ko-KR": {
-        label: "Korean",
-        direction: "ltr",
-      },
-    },
-  },
+  // i18n: {
+  //   defaultLocale: "en-US",
+  //   locales: ["en-US", "ko-KR"],
+  //   localeConfigs: {
+  //     "en-US": {
+  //       label: "English",
+  //       direction: "ltr",
+  //     },
+  //     "ko-KR": {
+  //       label: "Korean",
+  //       direction: "ltr",
+  //     },
+  //   },
+  // },
 
   themeConfig: {
     hideableSidebar: true,
@@ -70,7 +70,7 @@ module.exports = {
       items: [
         {
           type: "doc",
-          docId: "guide/welcome/introduction",
+          docId: "guide/intro",
           label: "Documentation",
           position: "left",
         },
@@ -130,10 +130,6 @@ module.exports = {
               label: "Telegram",
               href: "https://t.me/smatoos",
             },
-            {
-              label: "Facebook",
-              href: "https://www.facebook.com/smatoos",
-            },
           ],
         },
         {
@@ -152,11 +148,11 @@ module.exports = {
           items: [
             {
               label: "Documentation",
-              to: "/docs/guide/welcome/introduction",
+              to: "/docs/guide",
             },
             {
               label: "Tutorial",
-              to: "/docs/tutorial/intro",
+              to: "/docs/tutorial",
             },
           ],
         },
@@ -204,10 +200,6 @@ module.exports = {
               label: "Telegram",
               href: "https://t.me/smatoos",
             },
-            {
-              label: "Facebook",
-              href: "https://www.facebook.com/smatoos",
-            },
           ],
         },
         {
@@ -232,7 +224,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} SMATOOS, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SMATOOS HONGKONG, Inc.`,
     },
     metadatas: [
       { name: "description", content: description },

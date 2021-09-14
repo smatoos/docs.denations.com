@@ -8,13 +8,11 @@ sidebar_position: 2
 
 Virtual world to run a Nation/City, develop Civilization NFTs and participate in various businesses.
 
+## Objective
+
+Vision: Encourage users to expand the DeNations Metaverse through exploring civilization and recreating it into valuable NFT.
+
 ## Key Components
-
-### Objective
-
-#### Vision
-
-*Encourage users to expand the DeNations Metaverse through exploring civilization and recreating it into valuable NFT.*
 
 ### Resources
 

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: /tutorial/metaverse
 ---
 
 # Sign-up & Log-in
