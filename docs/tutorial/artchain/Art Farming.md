@@ -3,9 +3,7 @@ sidebar_position: 1
 slug: /tutorial/artchain
 ---
 
-# Art Farming
-
-## Beta
+# Art Farming Beta
 
 ## How to Participate in Art Farming Beta
 
