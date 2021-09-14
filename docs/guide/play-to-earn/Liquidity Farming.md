@@ -27,13 +27,13 @@ DeNations distributes a certain # of DENA to the liquidity provider of DENA and 
 
 **Participating farms are...**
 
-1. **DENA-ETH** Liquidity Farming Pool **[Add Liquidity](https://app.uniswap.org/#/add/0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da/ETH)** 
+1. **DENA-ETH** Liquidity Farming Pool **[Add Liquidity](https://app.uniswap.org/#/add/v2/0x15F0EEDF9Ce24fc4b6826E590A8292CE5524a1DA/ETH)** 
     1. **Farming Rate:** 1,500 DENA per week
     2. **Staked LP Token:** DENA-ETH Uniswap V2 LP token 
-2. **DENA-DAI** Liquidity Farming Pool **[Add Liquidity](https://app.uniswap.org/#/add/0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da/0x6b175474e89094c44da98b954eedeac495271d0f)**
+2. **DENA-DAI** Liquidity Farming Pool **[Add Liquidity](https://app.uniswap.org/#/add/v2/0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da/0x6b175474e89094c44da98b954eedeac495271d0f)**
     1. **Farming Rate:** 1,500 DENA per week
     2. **Staked LP Token:** DENA-DAI Uniswap V2 LP token 
-3. **DENA-WBTC** Liquidity Farming Pool [**Add Liquidity**](https://app.uniswap.org/#/add/0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599)
+3. **DENA-WBTC** Liquidity Farming Pool **[Add Liquidity](https://app.uniswap.org/#/add/v2/0x15F0EEDF9Ce24fc4b6826E590A8292CE5524a1DA/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599)**
     1. **Farming Rate:** 500 DENA per week
     2. **Staked LP Token:** DENA-DAI Uniswap V2 LP token
 

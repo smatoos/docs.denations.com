@@ -8,7 +8,7 @@ sidebar_position: 3
 
 ### How to
 
-`Step 1.` Go to [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x15F0EEDF9Ce24fc4b6826E590A8292CE5524a1DA) 
+`Step 1.` Go to [Uniswap](ttps://app.uniswap.org/#/swap?outputCurrency=0x15F0EEDF9Ce24fc4b6826E590A8292CE5524a1DA&use=V2) 
 
 `Step 2.` If the warning screen appears, check the 'I understand' box and click the 'Continue' button
 

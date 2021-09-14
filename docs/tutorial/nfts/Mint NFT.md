@@ -6,11 +6,15 @@ sidebar_position: 2
 
 ## Purpose
 
-Refer to [DNFT Token](/docs/guide/tokenomics/DNFT%20Token) 
+```mdx-code-block
+import {InternalLinkCard} from '@site/src/components/Link/Card'
+
+<InternalLinkCard title="DNFT Token" to="/docs/guide/tokenomics/DNFT%20Token" style={{margin: '1rem 0'}}/>
+``` 
 
 ## How to
 
-`Step 1.` Go to [https://finance.denations.com/#/nft](https://finance.denations.com/#/nft) 
+`Step 1.` Go to [DeNations Finance](https://finance.denations.com/#/nft) 
 
 `Step 2.` Unlock/Connect to the wallet
 

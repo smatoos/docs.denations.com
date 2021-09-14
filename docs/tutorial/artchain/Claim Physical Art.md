@@ -4,7 +4,11 @@ sidebar_position: 2
 
 # Claim Physical Art
 
-[DeNations Art](https://art.denations.com/owners)
+```mdx-code-block
+import {ExternalLinkCard} from '@site/src/components/Link/Card'
+
+<ExternalLinkCard title="DeNations Art Shipping" to="https://art.denations.com/owners" style={{margin: '1rem 0'}}/>
+```
 
 ## How to
 

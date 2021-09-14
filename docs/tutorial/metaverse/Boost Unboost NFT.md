@@ -7,8 +7,16 @@ sidebar_position: 6
 
 ## Purpose
 
-- Combining your Nation Ownership NFT card with a DeNations(DN) Ownership NFT card, you can **increase your Nation Ownership NFT card’s DGDP by 20%.**
-- Refer to [Glossary](/docs/guide/Glossary) for more details.
+Combining your Nation Ownership NFT card with a DeNations(DN) Ownership NFT card, you can **increase your Nation Ownership NFT card’s DGDP by 20%.**
+
+For more details :
+
+```mdx-code-block
+import {InternalLinkCard} from '@site/src/components/Link/Card'
+
+<InternalLinkCard title="Glossary" to="/docs/guide/Glossary" style={{margin: '1rem 0'}}/>
+``` 
+
 
 ## How to
 

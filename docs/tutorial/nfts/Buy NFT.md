@@ -9,9 +9,13 @@ slug: /tutorial/nfts
 
 ### How to
 
+:::caution 
+
 If you are totally new to NFT, follow from the step 1
 
 If you already have ETH address, directly go to step 3 or 4
+
+:::
 
 `Step 1.` Choose digital wallet 
 
@@ -31,9 +35,9 @@ It is recommended to read [the OpenSea guide](https://opensea.io/blog/guides/wel
 
 ### Types of DeNations NFT
 
-- **Ownership** NFT [https://opensea.io/collection/decentralized-nations](https://opensea.io/collection/decentralized-nations)
+- [Ownership NFT](https://opensea.io/collection/decentralized-nations)
     1. DN Ownership NFT
     2. Nation Ownership NFT
-- **DeNations Art by Jeon Byeongsam** NFT [https://opensea.io/collection/denations-art-unique-edition](https://opensea.io/collection/denations-art-unique-edition)
-- **DeNations Art by Jacoby** NFT [https://opensea.io/collection/denations-art-by-jacoby](https://opensea.io/collection/denations-art-by-jacoby)
-- **DeNations Art Open Edition ** NFT [https://opensea.io/collection/denations-art-open-edition](https://opensea.io/collection/denations-art-open-edition)
+- [DeNations Art by Jeon Byeongsam NFT](https://opensea.io/collection/denations-art-unique-edition)
+- [DeNations Art by Jacoby NFT](https://opensea.io/collection/denations-art-by-jacoby)
+- [DeNations Art Open Edition NFT](https://opensea.io/collection/denations-art-open-edition)
