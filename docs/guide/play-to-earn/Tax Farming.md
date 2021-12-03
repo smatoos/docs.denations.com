@@ -24,7 +24,7 @@ slug: /guide/play-to-earn
 - 20% of tax allocated to a certain Nation is paid to the President of the Nations (who have registered the largest DGDP of the Nation )
 - 80% of tax allocated to a certain Nation is paid to the owners of Nations Ownership holders in proportional to their registered DGDP.
 
-## Special Taxes
+## Special Tax
 
 ### a) Founder Tax
 
@@ -63,10 +63,14 @@ DeNations Ownerships & Myanmar Ownerships are excluded.
 - 85 new France Ownerships are sold (which excludes resale) during the 3rd round. The total sales amount was 100 ETH.
 - Founder tax reward for John at round 3 will be 1.39 ETH which includes normal Founder Tax (0.79 ETH=50 ETH*10%*60%*(50/190)) and Top 5 Founder Tax (0.60 ETH=50 ETH*10%*40%*30%).
 
-### b) Art Tax
-
-20% of DeNations Art Fund generated from a certain art block, will be distributed to the Nation Ownership holder of the artist's belonging nation.  
-
-### c) Civilization Tax
+### b) Civilization Tax
 
 20% of Civilization NFT revenue will be distributed to the Nation Ownership holder of the Civilization's belonging nation.
+
+## Business Tax
+
+Any business which uses DeNations' brand or operates inside DeNations must pay platform fees. 20% of the platform fee is defined as Business Tax and paid to the related Nation owners.
+
+### a) Business Art Tax
+
+20% of DeNations Art Fund generated from a certain art block of DeNations Art Chain, will be distributed to the Nation Ownership holder of the artist's belonging nation.
