@@ -1,27 +1,27 @@
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const lightCodeTheme = require('prism-react-renderer/themes/github');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 
-const title = "DeNations Docs";
+const title = 'DeNations Docs';
 const description =
-  "DeNations Documentation - Main documentation of DeNations.";
+  'Decentralized Nations. DeNations is a decentralized metaverse created from 195 Nation Ownership NFTs based on the real-world data of 195 nations in 2019.';
 const url =
-  process.env.NODE_ENV !== "development"
-    ? "https://docs.denations.com"
-    : "http://localhost:3000";
+  process.env.NODE_ENV !== 'development'
+    ? 'https://docs.denations.com'
+    : 'http://localhost:3000';
 
 module.exports = {
   title,
   url,
-  tagline: "",
-  baseUrl: "/",
-  onBrokenLinks: "throw",
+  tagline: '',
+  baseUrl: '/',
+  onBrokenLinks: 'throw',
   // onBrokenLinks: "ignore",
-  onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
-  organizationName: "smatoos", // Usually your GitHub org/user name.
-  projectName: "docs.denations.com", // Usually your repo name.
+  onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/favicon.ico',
+  organizationName: 'smatoos', // Usually your GitHub org/user name.
+  projectName: 'docs.denations.com', // Usually your repo name.
   // i18n: {
   //   defaultLocale: "en-US",
   //   locales: ["en-US", "ko-KR"],
@@ -56,49 +56,49 @@ module.exports = {
     // },
     colorMode: {
       disableSwitch: false,
-      defaultMode: "dark",
+      defaultMode: 'dark',
       respectPrefersColorScheme: true,
     },
     navbar: {
       hideOnScroll: true,
       logo: {
-        alt: "DENATIONS Logo",
-        src: "img/logo-light.svg",
-        srcDark: "img/logo.svg",
+        alt: 'DENATIONS Logo',
+        src: 'img/logo-light.svg',
+        srcDark: 'img/logo.svg',
       },
 
       items: [
         {
-          type: "doc",
-          docId: "guide/intro",
-          label: "Documentation",
-          position: "left",
+          type: 'doc',
+          docId: 'guide/intro',
+          label: 'Documentation',
+          position: 'left',
         },
         {
-          type: "doc",
-          docId: "tutorial/intro",
-          label: "Tutorials",
-          position: "left",
+          type: 'doc',
+          docId: 'tutorial/intro',
+          label: 'Tutorials',
+          position: 'left',
         },
         {
-          label: "Services",
-          position: "left",
+          label: 'Services',
+          position: 'left',
           items: [
             {
-              label: "DeNations",
-              href: "https://denations.com",
+              label: 'DeNations',
+              href: 'https://denations.com',
             },
             {
-              label: "Metaverse(Play)",
-              href: "https://denations.com",
+              label: 'Metaverse(Play)',
+              href: 'https://denations.com',
             },
             {
-              label: "Finance",
-              href: "https://finance.denations.com",
+              label: 'Finance',
+              href: 'https://finance.denations.com',
             },
             {
-              label: "Art Chain",
-              href: "https://artchain.denations.com",
+              label: 'Art Chain',
+              href: 'https://artchain.denations.com',
             },
           ],
         },
@@ -107,119 +107,119 @@ module.exports = {
         //   position: "right",
         // },
         {
-          label: "Community",
-          position: "right",
+          label: 'Community',
+          position: 'right',
           items: [
             {
-              label: "Blog",
-              href: "https://smatoos.medium.com",
+              label: 'Blog',
+              href: 'https://smatoos.medium.com',
             },
             {
-              label: "Discord",
-              href: "https://discord.com/invite/H6MtffFFMx",
+              label: 'Discord',
+              href: 'https://discord.com/invite/H6MtffFFMx',
             },
             {
-              label: "Twitter",
-              href: "https://twitter.com/DeNations_DENA",
+              label: 'Twitter',
+              href: 'https://twitter.com/DeNations_DENA',
             },
             {
-              label: "Youtube",
-              href: "https://www.youtube.com/channel/UC4KXfzAuebs2gMh84dzOEVQ",
+              label: 'Youtube',
+              href: 'https://www.youtube.com/channel/UC4KXfzAuebs2gMh84dzOEVQ',
             },
             {
-              label: "Telegram",
-              href: "https://t.me/smatoos",
+              label: 'Telegram',
+              href: 'https://t.me/smatoos',
             },
           ],
         },
         {
-          href: "https://github.com/smatoos",
-          position: "right",
-          className: "header-github-link",
-          "aria-label": "GitHub repository",
+          href: 'https://github.com/smatoos',
+          position: 'right',
+          className: 'header-github-link',
+          'aria-label': 'GitHub repository',
         },
       ],
     },
     footer: {
-      style: "dark",
+      style: 'dark',
       links: [
         {
-          title: "Docs",
+          title: 'Docs',
           items: [
             {
-              label: "Documentation",
-              to: "/docs/guide",
+              label: 'Documentation',
+              to: '/docs/guide',
             },
             {
-              label: "Tutorial",
-              to: "/docs/tutorial",
+              label: 'Tutorial',
+              to: '/docs/tutorial',
             },
           ],
         },
         {
-          title: "Services",
+          title: 'Services',
           items: [
             {
-              label: "DeNations",
-              href: "https://denations.com",
+              label: 'DeNations',
+              href: 'https://denations.com',
             },
             {
-              label: "Metaverse(Play)",
-              href: "https://denations.com",
+              label: 'Metaverse(Play)',
+              href: 'https://denations.com',
             },
             {
-              label: "Finance",
-              href: "https://finance.denations.com",
+              label: 'Finance',
+              href: 'https://finance.denations.com',
             },
             {
-              label: "Art Chain",
-              href: "https://artchain.denations.com",
+              label: 'Art Chain',
+              href: 'https://artchain.denations.com',
             },
           ],
         },
         {
-          title: "Community",
+          title: 'Community',
           items: [
             {
-              label: "Blog",
-              href: "https://smatoos.medium.com",
+              label: 'Blog',
+              href: 'https://smatoos.medium.com',
             },
             {
-              label: "Discord",
-              href: "https://discord.com/invite/H6MtffFFMx",
+              label: 'Discord',
+              href: 'https://discord.com/invite/H6MtffFFMx',
             },
             {
-              label: "Twitter",
-              href: "https://twitter.com/DeNations_DENA",
+              label: 'Twitter',
+              href: 'https://twitter.com/DeNations_DENA',
             },
             {
-              label: "Youtube",
-              href: "https://www.youtube.com/channel/UC4KXfzAuebs2gMh84dzOEVQ",
+              label: 'Youtube',
+              href: 'https://www.youtube.com/channel/UC4KXfzAuebs2gMh84dzOEVQ',
             },
             {
-              label: "Telegram",
-              href: "https://t.me/smatoos",
+              label: 'Telegram',
+              href: 'https://t.me/smatoos',
             },
           ],
         },
         {
-          title: "More",
+          title: 'More',
           items: [
             {
-              label: "GitHub",
-              href: "https://github.com/smatoos",
+              label: 'GitHub',
+              href: 'https://github.com/smatoos',
             },
             {
-              label: "Opensea",
-              href: "https://opensea.io/collection/decentralized-nations",
+              label: 'Opensea',
+              href: 'https://opensea.io/collection/decentralized-nations',
             },
             {
-              label: "CoinMarketCap",
-              href: "https://coinmarketcap.com/currencies/decentralized-nations",
+              label: 'CoinMarketCap',
+              href: 'https://coinmarketcap.com/currencies/decentralized-nations',
             },
             {
-              label: "Uniswap",
-              href: "https://v2.info.uniswap.org/token/0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da",
+              label: 'Uniswap',
+              href: 'https://v2.info.uniswap.org/token/0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da',
             },
           ],
         },
@@ -227,33 +227,45 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} SMATOOS HONGKONG, Inc.`,
     },
     metadatas: [
-      { name: "description", content: description },
-      { name: "og:title", content: title },
-      { name: "og:type", content: "website" },
-      { name: "og:description", content: description },
-      { name: "og:image", content: `${url}/img/og_social_card.png` },
-      { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:title", content: title },
-      { name: "twitter:description", content: description },
-      { name: "twitter:image", content: `${url}/img/twitter_social_card.png` },
+      { name: 'description', content: description },
+      { name: 'og:title', content: title },
+      { name: 'og:type', content: 'website' },
+      { name: 'og:description', content: description },
+      {
+        name: 'og:image',
+        content:
+          'https://denations-image.s3.ap-northeast-2.amazonaws.com/images/thumbnail.png',
+      },
+      { name: 'og:image:width', content: '1200' },
+      { name: 'og:image:height', content: '630' },
+      { name: 'twitter:card', content: 'photo' },
+      { name: 'twitter:title', content: title },
+      { name: 'twitter:description', content: description },
+      {
+        name: 'twitter:image',
+        content:
+          'https://denations-image.s3.ap-northeast-2.amazonaws.com/images/thumbnail.png',
+      },
+      { name: 'twitter:image:width', content: '1200' },
+      { name: 'twitter:image:height', content: '630' },
     ],
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
     },
   },
-  plugins: ["docusaurus-plugin-sass", "@docusaurus/plugin-ideal-image"],
+  plugins: ['docusaurus-plugin-sass', '@docusaurus/plugin-ideal-image'],
   presets: [
     [
-      "@docusaurus/preset-classic",
+      '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/smatoos/docs.denations.com/edit/master/website/",
+            'https://github.com/smatoos/docs.denations.com/edit/master/website/',
         },
-        theme: { customCss: [require.resolve("./src/css/custom.scss")] },
+        theme: { customCss: [require.resolve('./src/css/custom.scss')] },
       },
     ],
   ],
