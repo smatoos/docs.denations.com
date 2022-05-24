@@ -25,8 +25,8 @@ As the level of Land increases by 1, the rate of resource production increases. 
 | Rarity (%)                         | ≤ 64%   | ≤ 13%   | ≤ 11%    | ≤ 7%    | ≤ 5%      |
 | Resource Production (Farming) Rate | Low     | Medium  | Mid-High | High    | Very High |
 | Citizen Capacity                   | Low     | Medium  | Mid-high | High    | Very High |
-| Price                              | $25     | $40     | $64      | $102.40 | $163.84   |
-| G20 Pre-sale Price (50%)           | $12.50  | $20     | $32      | $51.20  | $81.92    |
+| Price                              | 0.0154 ETH  | 0.0244 ETH  | 0.0392 ETH  | 0.0628 ETH | 0.1004 ETH   |
+| G20 Pre-sale Price (50%)           | 0.0077 ETH  | 0.0122 ETH  | 0.0196 ETH  | 0.0314 ETH | 0.0502 ETH   |
 
 ## Land Types
 
