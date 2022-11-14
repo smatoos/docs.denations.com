@@ -62,16 +62,14 @@ DENA is used as 1) Platform Governance , 2) Platform Utility , 3) Platform Rewar
 ```mdx-code-block
 import { ExternalLinkCard } from '@site/src/components/Link/Card'
 
-<ExternalLinkCard title="Uniswap Interface" to="https://www.dcoin.com/currencyTrading/DENA_USDT" style={{margin: '1rem 0'}}/>
+<ExternalLinkCard title="Uniswap Interface" to="https://app.uniswap.org/#/swap?outputCurrency=0x15F0EEDF9Ce24fc4b6826E590A8292CE5524a1DA&use=V2" style={{margin: '1rem 0'}}/>
 ```
-
 
 ### Dcoin Exchange
 
 ```mdx-code-block
-<ExternalLinkCard title="DCoin DENA-USDT" to="https://app.uniswap.org/#/swap?outputCurrency=0x15F0EEDF9Ce24fc4b6826E590A8292CE5524a1DA&use=V2" style={{margin: '1rem 0'}}/>
+<ExternalLinkCard title="DCoin DENA-USDT" to="https://www.dcoin.com/currencyTrading/DENA_USDT" style={{margin: '1rem 0'}}/>
 ```
-
 
 ## 4-year Release Schedule
 

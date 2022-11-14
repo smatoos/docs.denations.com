@@ -10,18 +10,22 @@ In order to synchronize NFTs into your ETH account & connect to an ETH network
 
 ## How to
 
-`Step 1.` Log in 
+`Step 1.` After claiming tax, DENA will be deposited.
 
-`Step 2.` Click the cube at the top left corner, then the menu will be opened   
+`Step 2.` Click DENA (Decentralized Nations)
 
-![Register%20Ethereum%20Account%202bf69d68f45b4bf687cdd50434bd1d19/Untitled.png](./assets/register-ethereum-account/image.png)
+![deposit6.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8cd1b072-c362-45ed-8ec5-4d39bfa95b38/deposit6.jpg)
 
-`Step 3.` Click the ‘3 dots’ and ‘Settings’
+`Step 3.` Click 'Send'
 
-`Step 4.` Under the ‘Connection Management’ section, click 'Register'
+![deposit7.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1af81bc-28a0-43f6-a7c8-3f7dd1730be5/deposit7.jpg)
 
-![Register%20Ethereum%20Account%202bf69d68f45b4bf687cdd50434bd1d19/Untitled%201.png](./assets/register-ethereum-account/image-1.png)
+`Step 4.` Click 'Wallet address' and Enter the ETH address.
 
-`Step 5.` Register Ethereum account using Metamask
+![withdraw.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c7fcdb2a-3e9c-4f7e-bdc2-3434c62d8a19/withdraw.jpg)
 
-![Register%20Ethereum%20Account%202bf69d68f45b4bf687cdd50434bd1d19/Untitled%202.png](./assets/register-ethereum-account/image-2.png)
+`Step 5.` Enter the amount of DENA you want to withdraw & security password.
+
+`Step 6.` Complete face recognition step.
+
+`Step 7.` Check your digital wallet. DENA withdrawal has been completed.

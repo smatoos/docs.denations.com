@@ -2,15 +2,14 @@
 sidebar_position: 1
 slug: /guide/play-to-earn
 ---
-
 # Tax Farming(Farm with NFT)
 
 ## Description
 
-- Cities and nations receive taxes as tokens according to their power
-- the power of cities and nations is determined by many factors, including the productivity and registration status of Civilization NFT.
+- Nations receive taxes as tokens according to their power
+- The power of nations is determined by many factors, including the DGDP, land NFT, and Civilization NFT.
 - There are Regular Taxes paid every block time(14 seconds) and Special Taxes paid irregularly.
-- Tax is distributed to the holders of Nation/City Ownership NFT.
+- Tax is distributed to the holders of Nation Ownership NFT.
 
 ## Regular Tax
 
@@ -28,40 +27,21 @@ slug: /guide/play-to-earn
 
 ### a) Founder Tax
 
-#### Definition & Source of Founder Tax
+### Definition & Source of Founder Tax
 
-10% of sales of ownerships per round are compensated to the ownership owners of the previous round. This reward is defined as the Founder Tax
+10% of the nation ownership NFT sold per week is accumulated and distributed to players who registered at the beginning of the week.
 
-#### Founder Tax Distribution
+### Founder Tax Distribution
 
-40% of the Founder Tax (Top 5 Founder Tax) will be allocated to the top 5 registered owners who own the most ownerships at the end of the previous round. 60% of Founder Tax (Normal Founder Tax) will be distributed in proportion to the number of ownerships registered at the end of the previous round. When there is a tie, the owner who registered their last ownership earlier takes the higher rank.
+Discontinuance of supply rounds. Therefore, the founder tax will be distributed based on a weekly basis. The Founder Tax will be distributed every Monday.
 
-![Untitled](./assets/tax-farming/image-1.png)
-
-![Untitled](./assets/tax-farming/image-2.png)
-
-#### Time of the Measurement
-
-The status of the registered Nation Ownerships is measured when the next round starts(to give you a time for registration after the previous round ends) and this status determines the distribution of the founder tax reward for the current round.
-
-#### Register Nation Ownerships to Qualify
+### Register Nation Ownerships to Qualify
 
 You need to register your Nation Ownerships to qualify to receive Founder Tax.
 
-#### Tax Reward Date
+### Exceptions
 
-The reward will be paid within 28 days after the end of the round (when the last Nation Ownership of the round is sold).
-
-#### Exceptions
-
-DeNations Ownerships & Myanmar Ownerships are excluded. 
-
-#### Example
-
-- John registered 50 Ownerships (out of 190 total registered) of France when the last France Ownership is sold for round 2 (end of round 2).
-- John owns the 2nd largest number of France Ownerships at the end of round 2.
-- 85 new France Ownerships are sold (which excludes resale) during the 3rd round. The total sales amount was 100 ETH.
-- Founder tax reward for John at round 3 will be 1.39 ETH which includes normal Founder Tax (0.79 ETH=50 ETH*10%*60%*(50/190)) and Top 5 Founder Tax (0.60 ETH=50 ETH*10%*40%*30%).
+DeNations Ownerships & Myanmar Ownerships are excluded.
 
 ### b) Civilization Tax
 

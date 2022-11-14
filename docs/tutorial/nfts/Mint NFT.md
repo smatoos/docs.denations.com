@@ -4,6 +4,10 @@ sidebar_position: 2
 
 # Mint NFT
 
+You can mint nation ownership NFT with DNFT Token!
+
+The amount of DNFT reflects DGDP of the minting nation.
+
 ## Purpose
 
 ```mdx-code-block
@@ -14,13 +18,13 @@ import {InternalLinkCard} from '@site/src/components/Link/Card'
 
 ## How to
 
-`Step 1.` Go to [DeNations Finance](https://finance.denations.com/#/nft) 
+`Step 1.` Go to [DeNations Finance](https://finance.denations.com/#/nft)
 
 `Step 2.` Unlock/Connect to the wallet
 
-`Step 3.` Prepare DENA 
+`Step 3.` Prepare DENA
 
-`Step 4.` Deposit DENA 
+`Step 4.` Deposit DENA
 
 `Step 5.` Farm DNFT by depositing DENA
 

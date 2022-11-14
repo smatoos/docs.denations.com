@@ -23,6 +23,31 @@ Artists focus on producing their art NFTs and recruiting the next talented artis
 
 Unlike the other common NFTs, NFTs of the Art Chain Block is profitable under the support of the DeNations Token economy and MetaFi ecosystem.
 
+# **Welcome to DeNations**
+
+## **DeNations**
+
+### **Play to Earn!**
+
+DeNations is a blockchain-powered decentralized metaverse platform that everyone can own nations, build civilizations, and earn tokens.
+
+In DeNations, ownership of core assets is represented by Ethereum NFT (Non-Fungible Token). Players can register their NFTs at DeNations' metaverse platform, run their nations, and earn token (DENA) profits. Players will experience the best MetaFi (combination of Metaverse and DeFi) in DeNations.
+
+## DeNations Land
+
+### Collect Resources! Build Civilizations
+
+DeNations Land is a digital form of the earth’s surface in DeNations metaverse. DeNations earth is divided into land hexagons. Each hexagon has its own unique coordinates. The land is represented as NFT and can be traded in the open markets. 
+
+## **DeNations Art Chain**
+
+### **Collect to Earn! Art Collaboration**
+
+As DeNations is becoming noticeable each day, it has recently released a new collaboration project called DeNations Art Chain, a decentralized ecosystem where various talented artists can easily and sustainably produce valuable NFT arts.
+
+Artists focus on producing their art NFTs and recruiting the next talented artist without worrying about complicated blockchain technologies. DeNations takes care of technology, marketing and token economy.
+
+Unlike the other common NFTs, NFTs of the Art Chain Block is profitable under the support of the DeNations Token economy and MetaFi ecosystem.
 
 ## Related Links
 

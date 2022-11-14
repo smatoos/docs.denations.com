@@ -15,7 +15,6 @@ import { ExternalLinkCard } from '@site/src/components/Link/Card'
 <ExternalLinkCard title="Mint Ownership NFTs with DNFT" to="https://denations.typeform.com/to/VPHHZ5be" style={{margin: '1rem 0'}}/>
 ```
 
-
 ## How to Earn
 
 1. [Buy DENA](https://app.uniswap.org/#/swap?outputCurrency=0x15F0EEDF9Ce24fc4b6826E590A8292CE5524a1DA&use=V2) or [Farm DENA](https://finance.denations.com/#/dena)

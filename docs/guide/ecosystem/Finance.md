@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Finance
 
+DeFi platform. Business revenue and token revenue (NFT, DENA) are distributed to the NFT owners and liquidity providers via Token Farm to increase the liquidity and value of the token (NFT, DENA). Provides exchanges so that NFT and DENA can be actively traded.
+
 ## Objective
 
 In order to make key tokens of the DeNations (DENA and NFTs) actively traded, finance platform provides exchanges. It aims that business revenue and token revenue (DENA and NFT) are distributed to the NFT owners and liquidity providers via Token Farm to increase the liquidity and value of the token.
@@ -19,7 +21,7 @@ import { InternalLinkCard } from '@site/src/components/Link/Card'
 ## NFT Minting Farm
 
 ```mdx-code-block
-<InternalLinkCard title="NFT Minting" to="/docs/guide/play-to-earn/NFT%20Minting" style={{margin: '1rem 0'}}/>
+<InternalLinkCard title="Minting with DNFT" to="/docs/guide/play-to-earn/Minting%20with%20DNFT" style={{margin: '1rem 0'}}/>
 ```
 
 ## Token Exchange
