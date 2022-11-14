@@ -1,6 +1,6 @@
 # Stock Voucher Claim Guide
 
-# Rules
+## Rules
 
 - “Stock Voucher” is only valid for 180 days and can be traded on Opensea before the expiration date.
 - **The stock price in DENA corresponds to the following trading day’s closing price of the application date.** DENA price will be based on CoinMarketCap. The DENA price snapshot will be taken at the closing time of the claimed stock.* Application date is based on UTC timezone.

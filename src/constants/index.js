@@ -66,8 +66,8 @@ export const docs = [
     to: "/docs/guide/tokenomics",
   },
   {
-    name: "NFTs",
-    to: "/docs/guide/nfts",
+    name: "NFT",
+    to: "/docs/guide/nft",
   },
   {
     name: "Governance",

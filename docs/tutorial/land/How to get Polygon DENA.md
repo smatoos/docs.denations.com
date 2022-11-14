@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # How to get Polygon DENA
 
-First, you need to get DENA. Check the guide on [how to get DENA.](https://www.notion.so/Deposit-DENA-to-Metaverse-9d0372311140497f93bf40176a9095db)
+First, you need to get DENA. Check the guide on [how to get DENA.](/docs/tutorial/metaverse/Deposit%20DENA%20to%20Metaverse)
 
 Then, follow the steps below to get Polygon DENA.
 

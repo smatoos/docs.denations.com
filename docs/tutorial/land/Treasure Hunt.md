@@ -1,7 +1,5 @@
 # Treasure Hunt
 
-# ‘Treasure Hunt’ Tutorial
-
 This tutorial will guide you on how to hunt for treasures in the DeNations map.
 
 **Step 1.** Select your land and click ‘OPEN’.
