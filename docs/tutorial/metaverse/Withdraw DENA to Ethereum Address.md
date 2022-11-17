@@ -1,7 +1,5 @@
 # Withdraw DENA to Ethereum Address
 
-## Purpose
-
 ## How to
 
 `Step 1.` After claiming tax, DENA will be deposited.

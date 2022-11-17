@@ -1,8 +1,10 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Art-Chain
+
+![Art Chain](./assets/art-chain/donuts.png)
 
 ## Art Collections
 
@@ -10,18 +12,11 @@ sidebar_position: 4
 |:----------------------------------:|:-----------------------------------------------------------------:|
 | Art by Jeon Byeongsam              | https://opensea.io/collection/denations-art-unique-edition        |
 | Art by Jacoby                      | https://opensea.io/collection/denations-art-by-jacoby             |
-| Art Open Edition                   | https://opensea.io/collection/denations-art-open-edition          |
 | Art by Jae Young Kim               | https://opensea.io/collection/denations-art-chain-by-jae-yong-kim |
 | Art by detox.                      | https://opensea.io/collection/denations-art-chain-by-detox        |
+| Art Open Edition                   | https://opensea.io/collection/denations-art-open-edition          |
 
-### Art Open Edition
-
-**[Magic Frame NFT](https://opensea.io/collection/denations-art-open-edition)**
-
-- Magic Frame NFT can boost the DeNations Art’s Art Index by 5%.
-- Only one Magic Frame NFT can be attached to one Unique Edition of DeNations Art.
-
-## Description
+## **Description**
 
 - Art NFT is produced by talented artists who collaborated with DeNations.
 - Art series which share the same theme are issued as DeNations Art NFTs and grouped into one Art Block.
@@ -45,15 +40,22 @@ import {InternalLinkCard} from '@site/src/components/Link/Card'
 <InternalLinkCard title="Art Farming" to="/docs/guide/play-to-earn/Art%20Farming" style={{margin: '1rem 0'}}/>
 ```
 
-1. **Art Boosting (DGDP Boost)**
+2. **Art Boosting (DGDP Boost)**
 
     When owners register DeNations Art NFTs in the National Art Museum, the total DGDPs of the specific nation will be increased. How Art Indexes affect DGDP will be revealed in detail at the time of the National Museum release.
 
-2. **Art Index**
+3. **Art Open Edition**
+
+    - Magic Frame NFT can boost the DeNations Art’s Art Index by 5%.
+    - Only one Magic Frame NFT can be attached to one Unique Edition of DeNations Art.
+
+4. **Art Index**
+
     - Art Index is a quantified property of how valuable DeNations Art NFT is within the DeNations’ ecosystem.
     - Initial Art Index is set by DeNations Art Committee.
     - Art Index affects Art Farming & [Nation DGDP](https://denations.com/nations#nations193) Boosting.
 
-3. **National Art Museum** (Upcoming)
+5. **National Art Museum** (Upcoming)
+
     - Virtual museum where DeNations Art NFTs can be registered and exhibited; each nation has its own National Art Museum.
     - The Art NFTs displayed in the national museum is exposed to users and receive public love and attention from users.

@@ -18,10 +18,10 @@ import { InternalLinkCard } from '@site/src/components/Link/Card'
 <InternalLinkCard title="Liquidity Farming" to="/docs/guide/play-to-earn/Liquidity%20Farming" style={{margin: '1rem 0'}}/>
 ```
 
-## NFT Minting Farm
+## DNFT Farming
 
 ```mdx-code-block
-<InternalLinkCard title="Minting with DNFT" to="/docs/guide/play-to-earn/Minting%20with%20DNFT" style={{margin: '1rem 0'}}/>
+<InternalLinkCard title="DNFT Farming" to="/docs/guide/play-to-earn/DNFT%20Farming" style={{margin: '1rem 0'}}/>
 ```
 
 ## Token Exchange

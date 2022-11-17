@@ -3,6 +3,7 @@ import {
   CardsIcon,
   EarthIcon,
   FinanceIcon,
+  HexagonIcon,
 } from "@site/src/components/Icons";
 
 export const tutorialTopics = [
@@ -29,6 +30,18 @@ export const tutorialTopics = [
     },
   },
   {
+    name: "Land",
+    description:
+      "A digital form of the earth’s surface in DeNations metaverse.",
+    to: "/docs/tutorial/land",
+    icon: {
+      size: 56,
+      name: HexagonIcon,
+      color: "var(--ifm-color-line-icon)",
+      pointColor: "var(--ifm-color-primary)",
+    },
+  },
+  {
     name: "Finance",
     description: "Trade and farm tokens and NFTs",
     to: "/docs/tutorial/finance",
@@ -36,7 +49,7 @@ export const tutorialTopics = [
       size: 56,
       name: FinanceIcon,
       color: "var(--ifm-color-line-icon)",
-      pointColor: "var(--ifm-color-primary)",
+      pointColor: "var(--ifm-color-warning)",
     },
   },
   {
@@ -47,7 +60,7 @@ export const tutorialTopics = [
       size: 56,
       name: ArtIcon,
       color: "var(--ifm-color-line-icon)",
-      pointColor: "var(--ifm-color-warning)",
+      pointColor: "var(--ifm-color-primary-light)",
     },
   },
 ];

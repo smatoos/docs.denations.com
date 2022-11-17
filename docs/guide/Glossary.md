@@ -39,22 +39,10 @@ You have to register NFT nation ownership cards in order to enjoy the Founder Ta
 
 ### Boost
 
-There are several ways to increase the DGDP of your nation. One powerful tool to increase the DGDP is using the DN card. Registered nation ownership NFT can be “boosted” by the DN cards. Boosting will increase your national DGDP along with weekly tax rate.
+There are several ways to increase the DGDP of your nation. One powerful tool to increase the DGDP is using the DN card and DeNations Art-Chain NFT. Registered nation ownership NFT can be “boosted” by the DN card and Art NFT. Boosting will increase your national DGDP along with weekly tax rate.
 
 :::caution NOTE
 
-*You are able to detach the DN cards which were used to boost your nations, but when you sell or transfer your DN cards to others, they will be automatically detached from the order of the smallest DGDP.*
-
-:::
-
-:::info INFORMATION
-
-*Whenever you attach Nation Ownership cards or DN cards, DENA is necessary.*
-
-:::
-
-:::warning DENA BURN POLICY
-
-*DENA used during registration will be burned.*
+*You are able to detach the DN card or Art NFT which were used to boost your nations, but when you sell or transfer your boosting NFT to others, they will be automatically detached from the order of the smallest DGDP.*
 
 :::

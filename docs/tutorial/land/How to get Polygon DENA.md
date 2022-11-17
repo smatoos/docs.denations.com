@@ -2,7 +2,6 @@
 sidebar_position: 1
 ---
 
-
 # How to get Polygon DENA
 
 First, you need to get DENA. Check the guide on [how to get DENA.](/docs/tutorial/metaverse/Deposit%20DENA%20to%20Metaverse)

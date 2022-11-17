@@ -17,30 +17,6 @@ import {InternalLinkCard} from '@site/src/components/Link/Card'
 <InternalLinkCard title="Glossary" to="/docs/guide/Glossary" style={{margin: '1rem 0'}}/>
 ```
 
-## How to
-
-`Step 1.` First, you need Nation Ownership NFTs to be registered.
-
-`Step 2.` Click '+' sign when you want to boost Nation DGDPs by 20%.
-
-`Step 3.` Click 'Register' button after checking the DENA amount.
-
-![boost.png](./assets/boost-unboost-nft/boost.png)
-
-`Step 4.` Click '-' sign when you want to unboost DN from the currently attached Nation NFT.
-
-:::tip
-
-DENA is necessary when boosting while DENA is NOT necessary when unboosting.
-
-:::
-
-:::caution NOTE
-
-You are able to detach the DN cards which were used to boost your nations, but when you sell or transfer your DN cards to others, they will be automatically detached from the order of the smallest DGDP.
-
-:::
-
 ## Art Boosting
 
 Art NFT can boost DGDP up to 5% of its art index.
@@ -60,3 +36,27 @@ For example, the art index of LOST is 3,000. If you attach the LOST to the Unite
 For example, the art index of LOST is 3,000. If you attach the LOST to the Tuvalu nation ownership NFT (nation w/ low DGDP), the total DGDP will raise by approximately 2300%. LOST NFT will boost 1.3%(39.8) of its art index when you attach it to the Tuvalu nation. However, boosted DGDP is much higher than the original DGDP since DGDP of 1 Tuvalu nation ownership card is only 1.72.
 
 **DeNations’ players can strategically decide which nations to attach in order to earn more passive income.**
+
+## How to
+
+`Step 1.` First, you need Nation Ownership NFTs to be registered.
+
+`Step 2.` Click '+' sign when you want to boost Nation DGDPs by 20%.
+
+`Step 3.` Click 'Boost' button after checking the DENA amount.
+
+`Step 4.` Click '-' sign when you want to unboost DN from the currently attached Nation NFT.
+
+![boost](./assets/boost-unboost-nft/boost.jpg)
+
+:::tip
+
+DENA is necessary when boosting while DENA is NOT necessary when unboosting.
+
+:::
+
+:::caution NOTE
+
+You are able to detach the DN cards which were used to boost your nations, but when you sell or transfer your DN cards to others, they will be automatically detached from the order of the smallest DGDP.
+
+:::

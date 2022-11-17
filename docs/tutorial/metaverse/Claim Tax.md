@@ -4,8 +4,6 @@ sidebar_position: 7
 
 # Claim Tax
 
-## Purpose
-
 ## How to
 
 `Step 1.` After log-in and under the 'Tax & Ownership' section, check your accumulated DENA.

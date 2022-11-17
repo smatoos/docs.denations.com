@@ -36,6 +36,32 @@ export function ArtIcon(iconProps) {
     </svg>
   );
 }
+export function HexagonIcon(iconProps) {
+  return (
+    <svg
+      width={iconProps.size}
+      height={iconProps.size}
+      viewBox="0 0 32 32"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M16 18L9.33335 14L2.66669 18V26L9.33335 30L16 26V18ZM29.3334 18L22.6667 14L16 18V26L22.6667 30L29.3334 26V18Z"
+        stroke={iconProps.color}
+        stroke-width="1.66667"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+      <path
+        d="M22.6667 6L16 2L9.33337 6V14L16 18L22.6667 14V6Z"
+        stroke={iconProps.pointColor}
+        stroke-width="1.66667"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+    </svg>
+  );
+}
 
 export function CardsIcon(iconProps) {
   return (

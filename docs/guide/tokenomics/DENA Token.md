@@ -3,7 +3,6 @@ sidebar_position: 1
 slug: /guide/tokenomics
 ---
 
-
 # DENA Token
 
 ## Usage
@@ -12,19 +11,17 @@ DENA is used as 1) Platform Governance , 2) Platform Utility , 3) Platform Rewar
 
 ### Utility
 
-- **Buy NFT**
+- **Buy & Mint NFT**
 
-    DENA can be used to purchase newly issued NFTs. 
+    DENA can be used to purchase newly issued NFT and mint land NFT of DeNations.
 
 - **NFT Registration Fees**
 
-    Fees for registering NFT for 1) Mining DENA or 2) Enter Decentralized Nations for playing a game.
+    Fees for registering NFT for 1) Farming DENA or 2) Enter Decentralized Nations for playing a game.
 
 - **NFT Upgrade Fee**
 
-    Fees to upgrade NFT.
-
-- **NFT Minting**
+    Fee for upgrading NFT.
 
 ### Governance
 
@@ -44,16 +41,25 @@ DENA is used as 1) Platform Governance , 2) Platform Utility , 3) Platform Rewar
 
     DENA owners can submit new proposals to improve the Decentralized Nations.
 
-### Reward
+### **Reward**
 
 - **Liquidity Farming**
+
 - **Tax Farming**
 
-    You can stake a Digital Fame Asset NFT token to earn DENA as a reward. The amount of DENA mined is determined by
+    You can stake a nation ownership NFT token to earn DENA as a reward. The amount of DENA earned is determined by total DGDP of staked NFT.
 
-    1. Individual's DGDP of staked NFT/Total DGDP of staked NFT
+- **Art Farming**
 
-    2. DENA reward pool size of corresponding NFT mining pool
+    User can register art farming with Art NFT of DeNations. The user will receive DENA rewards every 2 weeks. DENA rewards can be different depending on art index of Art NFT.
+
+- **Stock Voucher NFT**
+
+    Stock Voucher NFT is reward of owning land near Meta Land. Stock Voucher NFT holder can claim shares of stock in DENA. 
+
+- **Airdrop**
+
+    DENA can be airdropped among city lands in DeNations.
 
 ## How to Earn
 

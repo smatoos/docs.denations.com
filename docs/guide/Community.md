@@ -8,7 +8,7 @@ sidebar_position: 10
 
 |         Community         |                           Link                           |
 |:-------------------------:|:--------------------------------------------------------:|
-| Medium                    | https://smatoos.medium.com                               |
+| Medium                    | https://medium.com/denations                             |
 | Discord                   | https://discord.com/invite/H6MtffFFMx                    |
 | Twitter                   | https://twitter.com/DeNations_DENA                       |
 | Telegram                  | https://t.me/smatoos                                     |

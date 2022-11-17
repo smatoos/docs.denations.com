@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+slug: /tutorial/land
+---
+
 # Land Minting Guide
 
 This guide shows how to mint DeNations Lands.
